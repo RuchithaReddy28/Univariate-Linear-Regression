@@ -48,6 +48,7 @@ Y_pred = m*X + c
 print (Y_pred)
 
 ```
+## Output:
 ## Sample Input and Output
 i)output:
 
