@@ -49,7 +49,12 @@ print (Y_pred)
 
 ```
 ## Sample Input and Output
+i)output:
+
 ![output](https://github.com/RuchithaReddy28/Univariate-Linear-Regression/blob/main/R1.PNG?raw=true)
+
+ii)output:
+
 ![output](https://github.com/RuchithaReddy28/Univariate-Linear-Regression/blob/main/R2.PNG?raw=true)
 
 ## Result
